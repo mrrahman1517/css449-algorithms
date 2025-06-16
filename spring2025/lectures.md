@@ -8,7 +8,12 @@
 6. Greedy algorithms part 1: [Greedy algorithms part1.pdf](https://github.com/user-attachments/files/20749778/Greedy.algorithms.part1.pdf)
 7. Greedy (MST, Set Disjoint Set Data structure): [greedy-mst-set-disjoint.pdf](https://github.com/user-attachments/files/20749792/greedy-mst-set-disjoint.pdf)
 8. Dynamic Programming (part 1): [dp-part1.pdf](https://github.com/user-attachments/files/20749811/dp-part1.pdf)
-9. 
+9. Dynamic Programming (part 2): [dp-part2.pdf](https://github.com/user-attachments/files/20749823/dp-part2.pdf)
+10. Max flow algorithms (part 1): [maxflow-part1.pdf](https://github.com/user-attachments/files/20749826/maxflow-part1.pdf)
+11. Max flow part 2 and np completeness: [max flow part 2 npc.pdf](https://github.com/user-attachments/files/20749830/max.flow.part.2.npc.pdf)
+
+
+
 
 
 
