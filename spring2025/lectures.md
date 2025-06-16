@@ -19,7 +19,10 @@
 1. Dynamic programming: https://youtu.be/fhYZ-NBKhy8?si=O8_Nk5-y7BQ3_6eF
 2. Max flow algorithms: https://youtu.be/5_74QyKp3Qo?si=lnk2RDxcPEx9X1f4
 3. Max flow algorithms (part 2): https://youtu.be/lBVEf1_QqfQ?si=yOwE76ptr_ijPieJ
-4. 
+4. Reduction of bipartite matching to max flow: https://youtu.be/zfBRz21mmh0?si=OK5KBwxTv4_Rikfd
+5. NP completeness: https://youtu.be/7wU7_r40RDU?si=2uNgGJMiTYn_z939
+6. Linear programming: https://youtu.be/7wU7_r40RDU?si=-xjk3C-QHjiIDApE
+7. Duality, Approximation algorithms: https://youtu.be/1JxU53n3_lc?si=7Swjmuu12MMYGK20
 
 
 
