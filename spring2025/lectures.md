@@ -15,6 +15,12 @@
 13. Linear programming (LP): [LP-notes.pdf](https://github.com/user-attachments/files/20749845/LP-notes.pdf)
 14. Applications of LP duality and Approximation Algorithms: [lp-duality-approx-algorithms.pdf](https://github.com/user-attachments/files/20749852/lp-duality-approx-algorithms.pdf)
 
+# Lecture Videos:
+1. Dynamic programming: https://youtu.be/fhYZ-NBKhy8?si=O8_Nk5-y7BQ3_6eF
+2. Max flow algorithms: https://youtu.be/5_74QyKp3Qo?si=lnk2RDxcPEx9X1f4
+3. Max flow algorithms (part 2): https://youtu.be/lBVEf1_QqfQ?si=yOwE76ptr_ijPieJ
+4. 
+
 
 
 
