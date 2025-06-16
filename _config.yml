@@ -1,0 +1,13 @@
+title: "CSS485 - Artificial Neural Networks"
+description: "Course Materials for Neural Networks"
+baseurl: "/css485-ann-uwb-sp2025"
+url: "https://mrrahman1517.github.io"
+theme: minima
+exclude: ["README.md"]
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Course 1"
+    url: "/course1/"
+  - title: "Course 2"
+    url: "/course2/"
