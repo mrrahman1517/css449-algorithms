@@ -1,4 +1,4 @@
-# Algorithms Lectures
+# Algorithms Hand-written lecture notes:
 
 1. Stable Matching, Complexity, Graphs: [stablematching-complexity-graphs.pdf](https://github.com/user-attachments/files/20749732/stablematching-complexity-graphs.pdf)
 2. Basic graph algorithms: [graphs.pdf](https://github.com/user-attachments/files/20749748/graphs.pdf)
@@ -11,6 +11,12 @@
 9. Dynamic Programming (part 2): [dp-part2.pdf](https://github.com/user-attachments/files/20749823/dp-part2.pdf)
 10. Max flow algorithms (part 1): [maxflow-part1.pdf](https://github.com/user-attachments/files/20749826/maxflow-part1.pdf)
 11. Max flow part 2 and np completeness: [max flow part 2 npc.pdf](https://github.com/user-attachments/files/20749830/max.flow.part.2.npc.pdf)
+12. NP completeness proofs: [np-completeness-part2.pdf](https://github.com/user-attachments/files/20749839/np-completeness-part2.pdf)
+13. Linear programming (LP): [LP-notes.pdf](https://github.com/user-attachments/files/20749845/LP-notes.pdf)
+14. Applications of LP duality and Approximation Algorithms: [lp-duality-approx-algorithms.pdf](https://github.com/user-attachments/files/20749852/lp-duality-approx-algorithms.pdf)
+
+
+
 
 
 
